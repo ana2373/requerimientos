@@ -1,0 +1,10 @@
+div{
+    position: absolute;
+    left: 50px;
+    bottom: 50px;
+    background-color: rgba(235, 35, 35, 0.976);
+}
+body{
+    background-color: black;
+    color: rgba(255, 255, 255, 0.697);
+}

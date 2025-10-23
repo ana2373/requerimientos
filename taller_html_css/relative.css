@@ -1,0 +1,9 @@
+div{
+    position: relative;
+    top: 20px;
+    left: 20px;
+    background-color: rgb(233, 195, 148);
+}
+body{
+    background-color: rgba(143, 201, 182, 0.401);
+}
